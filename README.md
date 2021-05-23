@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [William Khepri](https://github.com/williamkhepri)
 
-- 💻 Certified Ethical Hacker v.11 (In progress)
+- 💻 Certified Ethical Hacker v.11
 - 👾 Always learning something new
 - 🎹 Passionate about music
 - 🔭 Currently working on my own NFT collection.
