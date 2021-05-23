@@ -3,6 +3,7 @@
 - 💻 Certified Ethical Hacker v.11 (In progress)
 - 👾 Always learning something new
 - 🎹 Passionate about music
+- 🔭 Currently working on my own NFT collection.
 <!--
 **williamkhepri/williamkhepri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
