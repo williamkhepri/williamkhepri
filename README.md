@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [William Khepri](https://github.com/williamkhepri)
+### Hola 👋 soy [William Khepri](https://github.com/williamkhepri)
 
 - 💻 Hacker Ético Certificado v.11
 - 👾 Siempre aprendiendo algo nuevo
