@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm [William Khepri](https://github.com/williamkhepri)
 
-- 💻 Certified Ethical Hacker v.11
-- 👾 Always learning something new
-- 🎹 Passionate about music
+- 💻 Hacker Ético Certificado v.11
+- 👾 Siempre aprendiendo algo nuevo
+- 🎹 Apasionado de la música
 <!--
 **williamkhepri/williamkhepri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
