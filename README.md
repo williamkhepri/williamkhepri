@@ -3,6 +3,7 @@
 - 💻 Hacker Ético Certificado v.11
 - 👾 Siempre aprendiendo algo nuevo
 - 🎹 Apasionado de la música
+- 🤖 Inteligencia Artificial
 <!--
 **williamkhepri/williamkhepri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
