@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Solidity**
 
-- 📝 Escribo en [http://www.williakhepri.com](http://www.williakhepri.com)
+- 📝 Escribo en [www.williakhepri.com](http://www.williakhepri.com)
 
 - 💬 Pregúntame **sobre mi trabajo**
 
