@@ -9,7 +9,7 @@
 
 - 💬 Pregúntame **sobre mi trabajo**
 
-- 📫 Cómo contactarme **guillermorechac@gmail.com**
+- 📫 Contáctamen en **guillermorechac@gmail.com**
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
