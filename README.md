@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajando en **Contratos inteligentes**
 
-- 🌱 Estoy aprendiendo **Solidity**
+- 🌱 Estoy programando en **Solidity**
 
 - 📝 Escribo en [www.williakhepri.com](http://www.williakhepri.com)
 
