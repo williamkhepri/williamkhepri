@@ -5,7 +5,7 @@
 
 - 🌱 Estoy programando en **Solidity**
 
-- 📝 Escribo en [www.williakhepri.com](http://www.williakhepri.com)
+- 📝 Escribo en [www.williamkhepri.com](http://www.williamkhepri.com)
 
 - 📫 Contáctamen en **contacto@williamkhepri.com**
 
