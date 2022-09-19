@@ -7,7 +7,7 @@
 
 - 📝 Escribo en [www.williamkhepri.com](http://www.williamkhepri.com)
 
-- 📫 Contáctamen en **contacto@williamkhepri.com**
+- 📫 Contáctame en **contacto@williamkhepri.com**
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
