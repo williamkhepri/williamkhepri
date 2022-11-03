@@ -9,7 +9,7 @@
 
 - 📫 Contáctame en **contacto@williamkhepri.com**
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">RRSS:</h3>
 <p align="left">
 <a href="https://twitter.com/unkwn0wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unkwn0wn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4448430/william-khepri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="william-khepri" height="30" width="40" /></a>
