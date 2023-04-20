@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy William Khepri</h1>
 <h3 align="center">Hacker Ético Certificado v.11</h3>
 
-- 🔭 Actualmente trabajando en **Contratos inteligentes**
+- 🔭 Actualmente trabajando en **Cybersecurity**
 
-- 🌱 Estoy programando en **Solidity**
+- 🌱 Estoy programando en **Solidity** **Powershell** **Python**
 
 - 📝 Escribo en [www.williamkhepri.com](http://www.williamkhepri.com)
 
