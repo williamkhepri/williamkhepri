@@ -5,9 +5,6 @@
 
 - 🌱 Estoy programando en **Solidity** **Powershell** **Python**
 
-- 📝 Escribo en [www.williamkhepri.com](http://www.williamkhepri.com)
-
-- 📫 Contáctame en **contacto@williamkhepri.com**
 
 <h3 align="left">RRSS:</h3>
 <p align="left">
