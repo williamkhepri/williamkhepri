@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy William Khepri</h1>
+<h1 align="center">Hola 👋</h1>
 
 <h3 align="left">RRSS:</h3>
 <p align="left">
