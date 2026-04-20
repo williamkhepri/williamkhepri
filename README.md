@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋</h1>
 
 <h3 align="left">RRSS:</h3>
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/4448430/william-khepri" target="_blank" rel="noreferrer">
